@@ -1,0 +1,45 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-08T20:46:12Z",
+  "IdClaims": [
+    {
+      "Claim": "t:renmiou"
+    },
+    {
+      "Claim": "yt:@renmiou"
+    },
+    {
+      "Claim": "mdon:@renmiou@mastodon.online"
+    },
+    {
+      "Claim": "gh:xrenx"
+    }
+  ],
+  "IdDisclaims": [
+    {
+      "Claim": "med:no-account"
+    },
+    {
+      "Claim": "post:no-account"
+    },
+    {
+      "Claim": "spout:no-account"
+    },
+    {
+      "Claim": "ss:no-account"
+    },
+    {
+      "Claim": "pat:no-account"
+    }
+  ],
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "e1277119aee89f1b80223fbd",
+    "Timestamp": "2023-04-08T21:09:13Z",
+    "Signature": "022b490ebd87d25971671f2386fbd4a99fb839ab8dfe7670fda1920a59dc17785963eb70d18567cbd4c2b81683c8c856199193cca429afdc345617bf00d1febac62c1829498e2ad3de225ed55e92113876629a8ac3bc5a70ec4c95a7f14df3006786dea53b803dd05512a2b86dee7ae84d9f1886bde1b68422fcf04d02e3cdf38bb3390ce60bf096ec05036c23ff6607fdb120fc9a4e94069d0f0b0c3d37fbfdefa65acf591b481954988ea25782075e68b54d4232024b03ffcbe3888c8e4d749fe92e71e0e9361635910edc1aaa14f5408c5b77d22e9623accec3cca12dbb94985724a55f91cd14e30feca436ed8eb380d11d8c1103857c0af23fc167982d27"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "bfa097c0d724131c957c1b61ea738c1809af99ed6f313f7b97847a5bae99b665",
+  "ContentToHash": "v1|gh:xrenx,mdon:@renmiou@mastodon.online,med:no-account,pat:no-account,post:no-account,spout:no-account,ss:no-account,t:renmiou,yt:@renmiou|2023-04-08T20:46:12Z"
+}
